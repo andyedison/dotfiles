@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 # This will setup the links for the config files. Add to this as you add more files
 
