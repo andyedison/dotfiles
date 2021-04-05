@@ -1,0 +1,46 @@
+session_name: dba
+start_directory: /home/aedison
+windows:
+- window_name: prod
+  focus: 'true'
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'
+- window_name: rep
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'
+- window_name: nims
+  options:
+    automatic-rename: 'off'
+  layout: even-horizontal
+  panes:
+    - 
+    - 
+- window_name: dev1
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'
+- window_name: dev2
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'
+- window_name: dev3
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'
+- window_name: sandbox
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'
+- window_name: local
+  options:
+    automatic-rename: 'off'
+  panes:
+  - focus: 'true'

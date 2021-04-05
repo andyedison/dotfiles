@@ -1,0 +1,9 @@
+session_name: docker
+start_directory: /home/aedison
+windows:
+- focus: 'true'
+  options: {}
+  panes:
+  - focus: 'true'
+    shell_command: 
+  window_name: bash
